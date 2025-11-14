@@ -1,0 +1,19 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="geminiGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10B981" />
+      <stop offset="50%" stop-color="#14B8A6" />
+      <stop offset="100%" stop-color="#06B6D4" />
+    </linearGradient>
+  </defs>
+  <circle cx="100" cy="100" r="90" fill="url(#geminiGradient)" />
+  <circle cx="80" cy="80" r="8" fill="white" />
+  <circle cx="80" cy="80" r="4" fill="url(#geminiGradient)" />
+  <circle cx="120" cy="80" r="8" fill="white" />
+  <circle cx="120" cy="80" r="4" fill="url(#geminiGradient)" />
+  <line x1="88" y1="80" x2="112" y2="80" stroke="white" stroke-width="4" stroke-linecap="round" />
+  <line x1="80" y1="88" x2="100" y2="120" stroke="white" stroke-width="3" stroke-linecap="round" opacity="0.7" />
+  <line x1="120" y1="88" x2="100" y2="120" stroke="white" stroke-width="3" stroke-linecap="round" opacity="0.7" />
+  <circle cx="100" cy="140" r="6" fill="white" opacity="0.8" />
+</svg>
+

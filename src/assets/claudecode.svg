@@ -1,0 +1,14 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="claudeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF6B35" />
+      <stop offset="50%" stop-color="#F7931E" />
+      <stop offset="100%" stop-color="#FFD23F" />
+    </linearGradient>
+  </defs>
+  <circle cx="100" cy="100" r="90" fill="url(#claudeGradient)" />
+  <path d="M 70 100 Q 70 60 100 60 Q 130 60 130 100 Q 130 140 100 140 Q 70 140 70 100" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  <path d="M 50 80 L 40 100 L 50 120" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M 150 80 L 160 100 L 150 120" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
+
